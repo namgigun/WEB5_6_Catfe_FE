@@ -50,6 +50,10 @@ next-env.d.ts
 Icon
 !public/icon/
 
+
+# Custom
+.env
+.env.production
 # Thumbnails
 ._*
 
